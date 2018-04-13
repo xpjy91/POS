@@ -138,7 +138,7 @@ namespace POS
                                         "CONVERT(CHAR, Getdate(), 112), " +
                                         "'0001', " +
                                         "'0001', " +
-                                        "next value FOR posdb.seq_tranno, " +
+                                        "next value FOR seq_tranno, " +
                                         "CONVERT(CHAR, Getdate(), 112), " +
                                         "'" + sTranType + "', " +
                                         "'01', " +
