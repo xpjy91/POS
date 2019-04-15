@@ -18,7 +18,7 @@ using System.Reflection;
 namespace POS
 {  
     class ClsDB
-    {
+    {   
 
         private static String sSource = "server=(local); Database=POSDB; PWD=UNIPOS; UID=UNIPOS;";
         private static SqlConnection sqlConn = null;
