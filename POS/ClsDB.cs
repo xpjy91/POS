@@ -16,7 +16,7 @@ using System.Diagnostics;
 using System.Reflection;
 
 namespace POS
-{
+{  
     class ClsDB
     {
 
